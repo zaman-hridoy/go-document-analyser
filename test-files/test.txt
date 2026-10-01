@@ -1,0 +1,9 @@
+Go is a statically typed programming language.
+
+Goroutines are lightweight threads managed by the Go runtime.
+
+Channels allow goroutines to communicate with each other.
+
+PostgreSQL is a relational database that provides ACID transactions.
+
+RAG stands for Retrieval-Augmented Generation.

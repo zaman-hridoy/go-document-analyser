@@ -1,0 +1,2 @@
+-- DROP EXTENSION IF NOT EXISTS vector;
+
